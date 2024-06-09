@@ -1,0 +1,8 @@
+git clone https://github.com/jvcncaldeira/atividade_final/new/main 
+cd sistema-gerenciamento-tarefas
+
+git checkout -b feature/atividade_final
+
+git commit -am 'atividade_final'
+
+git push origin feature/atividade_final
